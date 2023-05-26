@@ -1,3 +1,6 @@
 # TSQ_Evaluation-Proposal
-This is a Course Project from Evaluating Programs and Policies in Spring 2022.
-This study will evaluate Community First, a homelessness services outreach program in Times Square, New York City. According to the Coalition for the Homeless, New York City has seen the highest rates of homelessness in recent years than have occurred since the Great Depression.
+This is a Course Project from Evaluating Programs and Policies in Spring 2022,
+aiming to propose an outcome evaluation for Time Square's homeless service pilot program-Community First.
+
+Requirement:
+You are submitting an evaluation proposal to a potential funding source. The proposal should describe the problem the intervention is intended to address, the target population (intended beneficiaries), the elements of the intervention itself, the intended benefits, and the program theory (process and impact) underlying the program. The proposal should include a discussion of implementation, process or formative assessment. Finally, propose and justify an appropriate evaluation design to measure the impact of the intervention. Be sure and describe the outcomes or impacts you intend to assess, based on the program theory and goals of the program. You must include at least two but no more than three outcome/impact research questions or hypotheses. In this portion of the proposal, you will need to describe your variables and how you will measure them (including reliability and validity of the measures you choose), and you will need to discuss issues around internal and external validity of the overall design. Include a section of the limitations of your study, in terms of design, measures and any other limiting factors.
